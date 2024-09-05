@@ -1,5 +1,6 @@
 # Data Structures and Algorithms (DSA) Progress
 # ARRAYS
+An array is a data structure that stores a collection of elements, each identified by an index or key. Arrays are fundamental to many algorithms and are widely used for their simplicity and efficiency in storing and accessing data.
 ## Overview
 This repository documents my journey in learning Data Structures and Algorithms (DSA) with a focus on arrays. The project includes implementations of fundamental array operations and algorithms, providing practical examples and exercises.
 
