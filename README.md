@@ -1,5 +1,5 @@
 # Data Structures and Algorithms (DSA) Progress
-#ARRAYS
+# ARRAYS
 ## Overview
 This repository documents my journey in learning Data Structures and Algorithms (DSA) with a focus on arrays. The project includes implementations of fundamental array operations and algorithms, providing practical examples and exercises.
 
