@@ -23,7 +23,7 @@ This file contains a solution to the "Buy and Sell Stock" problem. The problem i
 - Finding the best day to buy and sell to maximize profit.
 - Using a single pass approach to keep track of the minimum price seen so far and the maximum profit achievable.
 
-###**4.checkdup**
+### **4.checkdup**
 This file provides an implementation for checking duplicate elements in an array. The solution can include:
 - A brute-force approach that checks each element against every other element.
 - An optimized approach using hashing or sorting to achieve better time complexity.
